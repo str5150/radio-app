@@ -1,0 +1,40 @@
+{
+  "episodes": [
+    {
+      "id": "episode-001",
+      "title": "ウェルカムエピソード",
+      "description": "ラジオアプリへようこそ！このエピソードでは、アプリの使い方や今後の予定についてお話しします。",
+      "audioUrl": "https://example.com/audio/episode-001.mp3",
+      "coverImage": "covers/cover-400x400.png",
+      "duration": "15:30",
+      "publishedAt": "2024-01-15T10:00:00Z",
+      "tags": ["ウェルカム", "紹介"],
+      "likes": 0,
+      "comments": []
+    },
+    {
+      "id": "episode-002",
+      "title": "技術トーク",
+      "description": "ウェブ開発の最新トレンドや、PWA（プログレッシブ・ウェブアプリ）について詳しく解説します。",
+      "audioUrl": "https://example.com/audio/episode-002.mp3",
+      "coverImage": "covers/cover-400x400.png",
+      "duration": "22:45",
+      "publishedAt": "2024-01-20T14:30:00Z",
+      "tags": ["技術", "PWA", "ウェブ開発"],
+      "likes": 0,
+      "comments": []
+    },
+    {
+      "id": "episode-003",
+      "title": "クリエイティブな話",
+      "description": "デザインやアート、クリエイティブな活動について、ゲストと一緒に語り合います。",
+      "audioUrl": "https://example.com/audio/episode-003.mp3",
+      "coverImage": "covers/cover-400x400.png",
+      "duration": "28:15",
+      "publishedAt": "2024-01-25T16:00:00Z",
+      "tags": ["デザイン", "アート", "クリエイティブ"],
+      "likes": 0,
+      "comments": []
+    }
+  ]
+}
